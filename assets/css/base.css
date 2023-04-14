@@ -8,7 +8,7 @@
 
 a{
     text-decoration: none;
-    color: #333;
+    color: #fff;
 }
 
 ul,ol{
@@ -20,7 +20,8 @@ ul,ol{
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: 50%;
+    background-attachment: fixed;
 
 }
 
@@ -36,3 +37,4 @@ ul,ol{
 .bg-image2 {
     background-image: url(../images/pexels-david-kooijman-3591320.jpg);
 }
+
