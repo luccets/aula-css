@@ -33,7 +33,7 @@ ul,ol{
 }
 
 .bg-image1 {
-    background-image: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.6)),
+    background-image: linear-gradient(rgba(10, 22, 124, 0.3),rgba(0,0,0,.6)),
     url(../images/pexels-michele-ferrari-4587324.jpg);
 }
 
