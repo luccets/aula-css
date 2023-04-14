@@ -1,0 +1,38 @@
+/* resets css*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.bg-dark{
+    background-color: #000;
+
+}
+
+.bg-image1 {
+    background-image: url(../images/pexels-michele-ferrari-4587324.jpg);
+}
+
+.bg-image2 {
+    background-image: url(../images/pexels-david-kooijman-3591320.jpg);
+}
