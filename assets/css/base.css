@@ -3,6 +3,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* regra do goolgle fonts  */
+    font-family: 'Catamaran', sans-serif;
 
 }
 
@@ -31,7 +33,8 @@ ul,ol{
 }
 
 .bg-image1 {
-    background-image: url(../images/pexels-michele-ferrari-4587324.jpg);
+    background-image: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.6)),
+    url(../images/pexels-michele-ferrari-4587324.jpg);
 }
 
 .bg-image2 {
